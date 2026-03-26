@@ -14,7 +14,7 @@ $$P(X_s=1)=p,\quad P(X_s=-1)=1-p.$$
 
 ### Recursos utilizados:
 
- * Lenguaje: Python.
+ * Lenguaje: Jupyter Notebook.
  * Librerías:
     * Numpy.
     * Matplotlib.
