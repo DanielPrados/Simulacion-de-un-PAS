@@ -5,6 +5,6 @@ $$X_t=\sum_{s=1}^tZ_s$$
 
 donde las $Z_s$ son variables aleatorias independientes e idénticamente distribuidas de la siguiente forma: 
 
-$$P(X_s=1)=p,\; P(X_s=-1)=1-p.$$
+$$P(X_s=1)=p,\quad P(X_s=-1)=1-p.$$
 
 H
