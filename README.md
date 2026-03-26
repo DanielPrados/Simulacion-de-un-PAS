@@ -9,9 +9,8 @@ $$P(X_s=1)=p,\quad P(X_s=-1)=1-p.$$
 
 ### Contenido del proyecto:
 
-\begin{itemize}
-  \item Simulación: Generación de trayectorias aleatorias.
-  \item Visualización: Gráficas asociadas al proceso utilizando matplotlib.
-\end{itemize}
+  * Simulación: Generación de trayectorias aleatorias.
+  * Visualización: Gráficas asociadas al proceso utilizando matplotlib.
+
 
 
