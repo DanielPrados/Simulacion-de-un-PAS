@@ -7,4 +7,11 @@ donde las $Z_s$ son variables aleatorias independientes e idénticamente distrib
 
 $$P(X_s=1)=p,\quad P(X_s=-1)=1-p.$$
 
-H
+### Contenido del proyecto:
+
+\begin{itemize}
+  \item Simulación: Generación de trayectorias aleatorias.
+  \item Visualización: Gráficas asociadas al proceso utilizando matplotlib.
+\end{itemize}
+
+
