@@ -12,5 +12,12 @@ $$P(X_s=1)=p,\quad P(X_s=-1)=1-p.$$
   * Simulación: Generación de trayectorias aleatorias.
   * Visualización: Gráficas asociadas al proceso utilizando matplotlib.
 
+### Recursos utilizados:
+
+ * Lenguaje: Python.
+ * Librerías:
+    * Numpy.
+    * Matplotlib.
+
 
 
